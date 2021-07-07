@@ -1,4 +1,4 @@
-*CameraX Example App*
+# CameraX Example App
 
 Author: Lance Gleason (@lgleasain)
 
